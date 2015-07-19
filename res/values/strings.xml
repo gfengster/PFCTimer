@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pentland Footcare</string>
+    <string name="action_interval">Notice Interval</string>
+    <string name="action_total">Total Notice</string>
+    <string name="start_text">Start</string>
+    <string name="stop_text">Stop</string>
+    <string name="setting_text">Setting</string>
+    <string name="doodle_alert">Doodle Alert</string>
+    <string name="connection_error">Connection error.</string>
+</resources>
